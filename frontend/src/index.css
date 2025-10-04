@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { height: 100%; }
+body { 
+  @apply bg-gray-50 text-gray-900;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+}
+
+/* Custom color palette inspired by the design */
+:root {
+  --olive-dark: #3d4a1f;
+  --olive-medium: #4a5a2a;
+  --olive-light: #5a6b35;
+  --lime-light: #c4ff61;
+  --lime-pale: #e8ffc4;
+  --gray-bg: #f5f5f5;
+}
