@@ -285,12 +285,17 @@ Admins can configure complex approval workflows:
 
 ---
 
-## License
+# Expense Management System
 
-MIT
+[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green)](https://www.mongodb.com/cloud/atlas)
+[![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-green)](https://nodejs.org/)
 
----
+Full-stack expense management system with OCR receipt scanning, multi-level approvals, and role-based access control.
 
-## Support
 
-For issues or questions, please create an issue in the repository.
+
+## 📚 Documentation
+- [Quick Start Guide](QUICK_START.md)
+- [Test Credentials](TEST_CREDENTIALS.md)
+
