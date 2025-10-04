@@ -1,3 +1,11 @@
+<p>team name: Innovatrix</p>
+<p>team leader: Krupa Chokhaliya</p>
+<p>team member1: Naisargi Rupareliya</p>
+<p>team member2: Sindhuja Balane</p>
+<p>Problem statement : Expense Management System </p>
+<p>reviewer name: Aman Patel</p>
+
+
 # Expense Management System (EMS)
 
 Full-stack web application with **multi-level approvals**, **OCR receipt parsing** (Tesseract.js), **currency conversion**, **role-based access**, and **conditional approval rules**.
