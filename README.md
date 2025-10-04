@@ -1,10 +1,10 @@
-<p>team name: Innovatrix</p>
-<p>team leader: Krupa Chokhaliya</p>
-<p>team member1: Naisargi Rupareliya</p>
-<p>team member2: Sindhuja Balane</p>
+<p>Team name: Innovatrix</p>
+<p>Team leader: Krupa Chokhaliya</p>
+<p>Team member1: Naisargi Rupareliya</p>
+<p>Team member2: Sindhuja Balane</p>
 <p>Problem statement : Expense Management System </p>
-<p>reviewer name: Aman Patel</p>
-
+<p>Reviewer name: Aman Patel</p>
+<p>Video presentation link: https://drive.google.com/file/d/1O3tbEFukZH8L78P-b3gJwfxgyjKx-ATk/view?usp=sharing</p>
 
 # Expense Management System (EMS)
 
